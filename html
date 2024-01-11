@@ -1,4 +1,17 @@
-<!doctype html>
+<!DOCTYPE html>  
+<html>  
+<head>  
+  <title>导航栏</title>  
+</head>  
+<body>  
+  <ul>  
+    <li><a href="https://leesin181.github.io/12139/">页面1</a></li>  
+    <li><a href="https://leesin181.github.io/121310/">页面2</a></li>  
+    <li><a href="https://leesin181.github.io/12137/">页面3</a></li>  
+  </ul>  
+</body>  
+</html>
+ <!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -9,25 +22,17 @@
 <body>
 <div class="wrapper">
 <div class="nav">
-<img src="images/logo.png" style="margin-left:100px;" align="left" >
-<ul>
-  <li><a href="gongyi.html">制作工艺</a></li>
-<li><a href="lishi.html"> 烹饪历史</a></li>
-<li><a href="yinsu.html">形成因素</a></li>
-<li><a href="jianjie.html">美食简介</a></li>
-<li><a href="index.html">首页</a></li>
 
 </ul>
 </div>
 <div class="banner">
-  <img src="images/banner.jpg"> 
+ 
   </div>
 
 
 <div class="content">
 <h2>--关于中国美食--（ABOUT)</h2>
 <hr>
-<img src="images/tu1.jpg" style="margin:5px 15px;"  align="left">
 <br>
 
 <h3>  菜系是在选料、切配、烹饪等技艺方面，经长期演变而自成体系，具有鲜明的地方风味特色，并为社会所公认的中国饮食的菜肴流派。<br>
@@ -42,7 +47,7 @@
 <p>麻辣香锅</p>
 <img src="https://i.postimg.cc/wTLyv7VW/02c009848b2f7437fbfd0a63507d2cf2.jpg" alt="alternatetext">
 <p>披萨</p>
-<img src="https://i.postimg.cc/hv9DS7BT/7f96d13805a7a444f9edd9b4fa6d11df.jpg" alt="alternatetext">
+        <img src="https://i.postimg.cc/hv9DS7BT/7f96d13805a7a444f9edd9b4fa6d11df.jpg" alt="alternatetext">
 <p>大闸蟹</p>
 <img src="https://i.postimg.cc/0yZNMmJC/40dc9dfb3a4c869f43fd0d6a76da3cb6.jpg" alt="alternatetext">
 <p>大锅炖</p>
