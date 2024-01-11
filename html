@@ -23,7 +23,7 @@
 <div class="wrapper">
 <div class="nav">
 
-</ul>
+
 </div>
 <div class="banner">
  
