@@ -1,4 +1,4 @@
-<!DOCTYPE html>  
+
 <html>  
 <head>  
   <title>导航栏</title>  
@@ -8,10 +8,10 @@
     <li><a href="https://leesin181.github.io/12139/">页面1</a></li>  
     <li><a href="https://leesin181.github.io/121310/">页面2</a></li>  
     <li><a href="https://leesin181.github.io/12137/">页面3</a></li>  
-  </ul>  
+ 
 </body>  
 </html>
- <!doctype html>
+ 
 <html>
 <head>
 <meta charset="utf-8">
