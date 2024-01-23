@@ -76,3 +76,27 @@
     </div>  
 </body>  
 </html>
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <style>  
+        body.blue-bg {  
+            background-color: blue;  
+        }  
+        .nav {  
+            text-align: center;  
+        }  
+        .nav li {  
+            display: inline-block;  
+            margin: 0 10px;  
+        }  
+    </style>  
+</head>  
+<body class="blue-bg">  
+    <ul class="nav">  
+        <li><a href="https://leesin181.github.io/12139/">page1</a></li>  
+        <li><a href="https://leesin181.github.io/121310/">page2</a></li>  
+        <li><a href="https://leesin181.github.io/12137/">page3</a></li>  
+    </ul>  
+</body>  
+</html>
