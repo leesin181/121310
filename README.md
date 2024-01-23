@@ -5,9 +5,9 @@
 </head>  
 <body>  
   <ul>  
-    <li><a href="https://leesin181.github.io/12139/">页面1</a></li>  
-    <li><a href="https://leesin181.github.io/121310/">页面2</a></li>  
-    <li><a href="https://leesin181.github.io/12137/">页面3</a></li>  
+    <li><a href="https://leesin181.github.io/12139/">page1</a></li>  
+    <li><a href="https://leesin181.github.io/121310/">page2</a></li>  
+    <li><a href="https://leesin181.github.io/12137/">page3</a></li>  
  
 
 
