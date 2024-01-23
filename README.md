@@ -3,7 +3,7 @@
 <head>  
     <style>  
         body {  
-            background-color: #DCE0E3; /* 浅蓝色背景 */  
+            background-color: #FAEBD7; /* 淡黄色背景 */  
         }  
         .nav {  
             text-align: center; /* 居中导航栏 */  
@@ -22,7 +22,6 @@
     </ul>  
 </body>  
 </html>
-
  
 <html>
 <head>
