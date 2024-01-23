@@ -21,8 +21,6 @@
         <li><a href="https://leesin181.github.io/12137/">page3</a></li>  
     </ul>  
 </body>  
-</html>
- 
 <html>
 <head>
 <meta charset="utf-8">
