@@ -1,14 +1,12 @@
 
-</html>
-<!DOCTYPE html>  
-<html>  
+ 
 <head>  
     <style>  
-        body.light blue-bg {  
-            background-color: light blue;  
+        body {  
+            background-color: #DCE0E3; /* 浅蓝色背景 */  
         }  
         .nav {  
-            text-align: center;  
+            text-align: center; /* 居中导航栏 */  
         }  
         .nav li {  
             display: inline-block;  
@@ -16,7 +14,7 @@
         }  
     </style>  
 </head>  
-<body class="light blue-bg">  
+<body>  
     <ul class="nav">  
         <li><a href="https://leesin181.github.io/12139/">page1</a></li>  
         <li><a href="https://leesin181.github.io/121310/">page2</a></li>  
@@ -24,7 +22,6 @@
     </ul>  
 </body>  
 </html>
-
 
  
 <html>
