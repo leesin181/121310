@@ -31,7 +31,7 @@
 
 
 <div class="content">
-<h2>--关于中国美食--（ABOUT)</h2>
+<h2>--About Chinese cuisine--（ABOUT)</h2>
 <hr>
 <br>
 
