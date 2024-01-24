@@ -39,7 +39,7 @@
 
 
 <div class="content">
-<h2>--About Chinese cuisine--（ABOUT)</h2>
+<h2>--This is a web page I made about food--（ABOUT)</h2>
 <hr>
 <br>
 
@@ -83,4 +83,8 @@
         <img src="https://i.postimg.cc/bN9yWbLj/ec8b86e1ad0126df46b2390f28416404.jpg" alt="alternatetext" class="img-responsive">  
     </div>  
 </body>  
+
+<footer style="position: fixed; bottom: 0; right: 0; width: 200px; font-size: 12px;">  
+    leesin@623  
+</footer>
 
