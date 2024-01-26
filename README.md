@@ -84,7 +84,6 @@
     </div>  
 </body>  
 
-<footer style="position: fixed; bottom: 0; right: 0; width: 200px; font-size: 12px;">  
-    leesin@623  
+<footer style="position: relative; bottom: 0; right: 0; font-size: 12px; text-align: center">
+    leesin@623
 </footer>
-
