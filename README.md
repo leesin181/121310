@@ -84,6 +84,6 @@
     </div>  
 </body>  
 
-<footer style="position: relative; bottom: 0; right: 0; font-size: 12px; text-align: center">
-    leesin@623
-</footer>
+ <footer style="position: relative; bottom: 0; right: 0; font-size: 16px; text-align: center; color: #00008B;">  
+    @Leesin.com  
+</footer>  
